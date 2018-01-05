@@ -1,0 +1,21 @@
+# Version: 4.0.0.214 (d15-5: c4240f3f)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/4.0.0.214/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/4.0.0.214/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/ATX/Projects/SpriteTest/Mac/bin/Debug/ \
+	/name:SpriteTest.Mac \
+	'/profile:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.10 \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/Users/ATX/Projects/SpriteTest/Mac/bin/Debug/SpriteTest.Mac.exe \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/ATX/Projects/SpriteTest/Mac/obj/x86/Debug/mmp-cache \

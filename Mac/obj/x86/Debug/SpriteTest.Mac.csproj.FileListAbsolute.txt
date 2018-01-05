@@ -1,0 +1,9 @@
+/Users/ATX/Projects/SpriteTest/Mac/bin/Debug/SpriteTest.Mac.exe
+/Users/ATX/Projects/SpriteTest/Mac/bin/Debug/SpriteTest.Mac.pdb
+/Users/ATX/Projects/SpriteTest/Mac/obj/x86/Debug/actool/asset-manifest.plist
+/Users/ATX/Projects/SpriteTest/Mac/obj/x86/Debug/ibtool-manifests/MainMenu.nib
+/Users/ATX/Projects/SpriteTest/Mac/obj/x86/Debug/ibtool/MainMenu.nib
+/Users/ATX/Projects/SpriteTest/Mac/obj/x86/Debug/SpriteTest.Mac.csprojResolveAssemblyReference.cache
+/Users/ATX/Projects/SpriteTest/Mac/obj/x86/Debug/SpriteTest.Mac.csproj.CoreCompileInputs.cache
+/Users/ATX/Projects/SpriteTest/Mac/obj/x86/Debug/SpriteTest.Mac.exe
+/Users/ATX/Projects/SpriteTest/Mac/obj/x86/Debug/SpriteTest.Mac.pdb

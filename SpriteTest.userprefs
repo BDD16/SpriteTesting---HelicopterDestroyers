@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3CFA54BA-4D4D-4029-8EC8-C96AC1A613F7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared/Resources/Model/Helicopter.cs">
+    <Files>
+      <File FileName="Shared/GameViewController.cs" Line="48" Column="1" />
+      <File FileName="Mac/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Mac/Main.cs" Line="12" Column="28" />
+      <File FileName="Shared/GameScene.cs" Line="335" Column="30" />
+      <File FileName="Shared/GameViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Shared/Resources/Model/Helicopter.cs" Line="31" Column="24" />
+      <File FileName="Shared/Resources/Model/Bullets.cs" Line="23" Column="35" />
+      <File FileName="Shared/Resources/Model/Towers.cs" Line="66" Column="10" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="481" Column="3" />
+      <File FileName="Shared/Resources/Model/AttackHelo.cs" Line="1" Column="1" />
+      <File FileName="Shared/Resources/Model/UtilityHelo.cs" Line="30" Column="14" />
+      <File FileName="Shared/Resources/Model/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Shared/Resources/Model/Tanks.cs" Line="1" Column="1" />
+      <File FileName="Shared/Resources/Model/Missiles.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ATX/Projects/SpriteTest/Shared/GameScene.cs" relfile="Shared/GameScene.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SpriteTest.IOS>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.SpriteTest.IOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpriteTest.Mac PreferredExecutionTarget="Test1" />
+  <MultiItemStartupConfigurations />
+</Properties>
